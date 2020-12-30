@@ -1,5 +1,6 @@
 """
 使用flask_sqlalchemy连接MS SQL server数据库的方法
+2020-12-30
 """
 
 from flask import Flask, render_template, url_for, request, redirect
